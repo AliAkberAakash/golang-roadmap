@@ -2,5 +2,5 @@
 
 ```mermaid
 graph TD;
-    A[Langiage Basics]-->B[Go modules];
+    A[Language Basics - variables - control structures - loops - functions - structs - interfaces]-->B[Go modules];
 ```
