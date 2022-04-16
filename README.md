@@ -1,7 +1,7 @@
 # golang-roadmap
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#ff0000'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#ffffff', 'textColor': '#000000', 'lineColor': '#ffffff'}}}%%
 graph TD;
     start(Start)-->A(Go)
     A-->B(Go Modules)
