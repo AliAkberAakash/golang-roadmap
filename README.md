@@ -9,5 +9,11 @@ graph TD;
     A-.->A3(Arrays and slices)
     A-.->A4(Pointers, Structures, Methods)
     A-.->A5(Interface)
-    
+    A-.->A6(Goroutine, Channel, Buffer, Select, Mutex)
+    A-.->A7(Defer, Error, Panic, Recover)
+    B-.->B1(Go dependency management tool)
+    B-.->B2(Semantic Versioning)
+    B-.-B3(Version, Scripts, Reepository and other properties)
+    B-->C(SQL fundamtals)
+    C-.->B1(Basic SQL Query)
 ```
