@@ -8,6 +8,6 @@ graph TD;
     A-.->A2(Variables, Constants, Type, Functions etc)
     A-.->A3(Arrays and slices)
     A-.->A4(Pointers, Structures, Methods)
-    A-.->(Interface)
+    A-.->A5(Interface)
     
 ```
