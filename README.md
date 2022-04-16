@@ -16,4 +16,7 @@ graph TD;
     B-.-B3(Version, Scripts, Reepository and other properties)
     B-->C(SQL fundamtals)
     C-.->C1(Basic SQL Query)
+    C-->D(General Developmnt Skills)
+    D-.->D1(GIT)
+    D-.->D2(Http/Https)
 ```
