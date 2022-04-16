@@ -1,5 +1,5 @@
 # golang-roadmap
-
+<body style="background: #fff;">
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#ffffff', 'textColor': '#000000', 'lineColor': '#000000', 'background' : '#bbdefb'}}}%%
 graph TD;
@@ -27,3 +27,4 @@ graph TD;
     D-->E0(( ))
 
 ```
+</body>    
