@@ -15,5 +15,5 @@ graph TD;
     B-.->B2(Semantic Versioning)
     B-.-B3(Version, Scripts, Reepository and other properties)
     B-->C(SQL fundamtals)
-    C-.->B1(Basic SQL Query)
+    C-.->C1(Basic SQL Query)
 ```
