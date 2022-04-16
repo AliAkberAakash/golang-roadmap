@@ -19,4 +19,10 @@ graph TD;
     C-->D(General Developmnt Skills)
     D-.->D1(GIT)
     D-.->D2(Http/Https)
+    D-.->D3(Data Structures and Algorithm)
+    D-.->D4(Scrum,Kanban or other Project management Strategies)
+    D-.->D5(Basic Authentication, OAuth, JWT)
+    D-.->D6(SOLID,YAGNI,KISS)
+    D-->E0(( ))
+
 ```
